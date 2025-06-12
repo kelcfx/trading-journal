@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to the Trading Journal App!",
+  "signInGoogle": "Sign In with Google",
+  "guestContinue": "Continue as Guest",
+  "logout": "Logout",
+  "tradeLogs": "Trade Logs Section",
+  "charts": "Analytics Charts",
+  "calendar": "Calendar View"
+}
